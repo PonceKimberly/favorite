@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Starlight Memories - My Favorite Anime Story</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Starlight Memories</h1>
+        <p>An anime-inspired story about dreams, love, and reaching for the stars.</p>
+    </header>
+    <main>
+        <section class="story">
+            <h2>Story Overview</h2>
+            <p>
+                In the quiet town of Japan, 19-year-old Haruka, a college student and single mother, balances her hectic life while raising her son, Kenta. Together, they dream of touching the stars, both figuratively and literally. This heartwarming tale follows Haruka's journey to rediscover her love for space and chasing dreams, inspired by her son's curiosity.
+            </p>
+        </section>
+        <section class="favorites">
+            <h2>My Favorite Anime Moments</h2>
+            <ul>
+                <li>
+                    <h3>The First Stargazing Event</h3>
+                    <p>Haruka and Kenta’s first visit to the observatory, where they marvel at Saturn’s rings through a telescope. A turning point for Haruka’s dreams.</p>
+                </li>
+                <li>
+                    <h3>Haruka’s Awakening</h3>
+                    <p>When Haruka speaks with Dr. Tanaka about studying space science, her belief in herself grows, rekindling her passion for the stars.</p>
+                </li>
+                <li>
+                    <h3>Building Rocket Ships</h3>
+                    <p>Haruka reading books on astronomy to Kenta while they build toy rockets together—an example of how dreams, no matter how small, grow with love and imagination.</p>
+                </li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>Created by Kimberly Ponce. Follow me on <a href="https://github.com/PonceKimberly">GitHub</a>.</p>
+    </footer>
+</body>
+</html>
